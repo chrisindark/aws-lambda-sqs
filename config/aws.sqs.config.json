@@ -1,0 +1,7 @@
+{
+  "accessKeyId": "123456789",
+  "secretAccessKey": "123456789",
+  "region": "us-east-1",
+  "sslEnabled": false,
+  "endpoint": "http://127.0.0.1:4568"
+}
